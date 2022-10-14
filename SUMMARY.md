@@ -7,13 +7,13 @@
 ## Reference
 
 * [Realms (daos)](reference/realms-daos.md)
+* [TokenOwnerRecords](reference/tokenownerrecords/README.md)
+  * [Votes](reference/tokenownerrecords/votes.md)
 * [Proposals](reference/proposals/README.md)
   * [Votes](reference/proposals/votes.md)
   * [Comments](reference/proposals/comments.md)
 * [Governances](reference/governances/README.md)
   * [Realm Wallets](reference/governances/realm-wallets.md)
-* [TokenOwnerRecords](reference/tokenownerrecords/README.md)
-  * [Votes](reference/tokenownerrecords/votes.md)
 
 ## Concepts
 
