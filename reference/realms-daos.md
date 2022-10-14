@@ -2,7 +2,7 @@
 description: Realms are equivalent to DAOs on other chains
 ---
 
-# Realms (daos)
+# 🏰 Realms (daos)
 
 ### Fetch Realms
 
@@ -38,36 +38,3 @@ let DEFAULT_SPL_GOVERNANCE_ID = new PublicKey("GovER5Lthms3bLBqWub97yVrMmEogzX7x
 const realms = await getRealms(connection, DEFAULT_SPL_GOVERNANCE_ID);
 ```
 
-### Fetch Realm Program IDs
-
-{% swagger method="get" path=" " baseUrl="https://app.realms.today/api/splGovernancePrograms" summary="Returns a list of program ID's of spl-governance instances deployed on Solana" %}
-{% swagger-description %}
-This is a community maintained list. To add your instance, make a PR on
-
-[ ](https://github.com/solana-labs/governance-ui)
-
-
-
-[https://github.com/solana-labs/governance-ui](https://github.com/solana-labs/governance-ui)
-
-
-{% endswagger-description %}
-
-{% swagger-response status="200: OK" description="Returns list of spl-governance program ID's" %}
-```javascript
-{
-    // Response
-}
-```
-{% endswagger-response %}
-{% endswagger %}
-
-### Realm Metadata
-
-There is currently a community maintained list in the governance-ui library
-
-[https://github.com/solana-labs/governance-ui/blob/main/public/realms/mainnet-beta.json](https://github.com/solana-labs/governance-ui/blob/main/public/realms/mainnet-beta.json)
-
-{% hint style="info" %}
-If you'd like your DAO to have metadata like an image, create a PR to the file linked above with your DAO's info.&#x20;
-{% endhint %}
