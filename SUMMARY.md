@@ -10,7 +10,7 @@
   * [Realm Program Ids](reference/realms-daos/realm-program-ids.md)
   * [Realm Metadata](reference/realms-daos/realm-metadata.md)
 * [👥 TokenOwnerRecords](reference/tokenownerrecords/README.md)
-  * [Dao membership](reference/tokenownerrecords/dao-membership.md)
+  * [Dao Membership](reference/tokenownerrecords/dao-membership.md)
   * [Votes](reference/tokenownerrecords/votes.md)
 * [🏛 Proposals](reference/proposals/README.md)
   * [Votes](reference/proposals/votes.md)
