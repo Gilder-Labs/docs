@@ -1,2 +1,2 @@
-# Treasury
+# 💰 Treasury
 

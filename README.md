@@ -1,4 +1,4 @@
-# Welcome!
+# 👋 Welcome!
 
 ## Welcome to SPL-gov docs!
 

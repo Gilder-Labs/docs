@@ -1,5 +1,5 @@
 ---
-description: Get an individual members votes
+description: Get an individual members votes. This will get their votes across all daos.
 ---
 
 # Votes
@@ -23,11 +23,9 @@ import {
 const membersWalletAddress = new PublicKey("EVa7c7XBXeRqLnuisfkvpXSw5VtTNVM8MNVJjaSgWm4i");
 const DEFAULT_SPL_GOVERNANCE_ID = new PublicKey("GovER5Lthms3bLBqWub97yVrMmEogzX7xNjdXpPPCVZw");
 
-
 const memberVotes = await getVoteRecordsByVoter(
   connection,
-  // this arg needs to be the spl-governance program id of the realm
-  DEFAULT_SPL_GOVERNANCE_ID, // change this based on the dao program id
+  DEFAULT_SPL_GOVERNANCE_ID, // change this to based on the realms program id
   membersWalletAddress
 );
 ```
