@@ -1,6 +1,6 @@
-# Welcome!
+# 👋 Welcome!
 
-## Welcome to SPL-gov docs!
+## Welcome to SPL-Governance docs!
 
 This is meant to be a community led effort to build docs around SPL-governance daos on Solana!
 
