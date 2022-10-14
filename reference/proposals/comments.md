@@ -25,8 +25,8 @@ import {
 const proposalPublicKey = new PublicKey("2PwgCid6JCFXLvcqHiCTaMHJLHR65EqwvboTycFiZM69");
 
 const proposalComments = await getGovernanceChatMessages(
-  connection,
-  GOVERNANCE_CHAT_PROGRAM_ID,
-  new PublicKey(proposalId)
+    connection,
+    GOVERNANCE_CHAT_PROGRAM_ID,
+    proposalPublicKey
 );
 ```
