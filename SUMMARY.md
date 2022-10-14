@@ -1,27 +1,27 @@
 # Table of contents
 
-* [Welcome!](README.md)
-* [Ecosystem](ecosystem.md)
-* [Quick Start](quick-start.md)
+* [👋 Welcome!](README.md)
+* [🏫 Ecosystem](ecosystem.md)
+* [🏎 Quick Start](quick-start.md)
 
 ## Reference
 
-* [Realms (daos)](reference/realms-daos.md)
-* [TokenOwnerRecords](reference/tokenownerrecords/README.md)
+* [🏰 Realms (daos)](reference/realms-daos.md)
+* [👥 TokenOwnerRecords](reference/tokenownerrecords/README.md)
   * [Votes](reference/tokenownerrecords/votes.md)
-* [Proposals](reference/proposals/README.md)
+* [🏛 Proposals](reference/proposals/README.md)
   * [Votes](reference/proposals/votes.md)
   * [Comments](reference/proposals/comments.md)
-* [Governances](reference/governances/README.md)
+* [🏛 Governances](reference/governances/README.md)
   * [Realm Wallets](reference/governances/realm-wallets.md)
 
 ## Concepts
 
-* [Realms (daos)](concepts/realms-daos.md)
-* [Membership](concepts/membership.md)
-* [Proposals](concepts/proposals.md)
-* [Treasury](concepts/treasury.md)
-* [VoteRecord](concepts/voterecord.md)
+* [🏰 Realms (daos)](concepts/realms-daos.md)
+* [👥 Membership](concepts/membership.md)
+* [🏛 Proposals](concepts/proposals.md)
+* [💰 Treasury](concepts/treasury.md)
+* [✅ VoteRecord](concepts/voterecord.md)
 
 ## Plugins
 
