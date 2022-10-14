@@ -6,7 +6,7 @@
 
 ## Reference
 
-* [🏰 Realms (daos)](reference/realms-daos/README.md)
+* [🏰 Realms (daos)](reference/realms-daos.md)
   * [Realm Program Ids](reference/realms-daos/realm-program-ids.md)
   * [Realm Metadata](reference/realms-daos/realm-metadata.md)
 * [👥 TokenOwnerRecords](reference/tokenownerrecords/README.md)
