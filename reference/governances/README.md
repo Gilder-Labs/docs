@@ -4,6 +4,6 @@ description: >-
   owns.
 ---
 
-# 🏛 Governances
+# Governances
 
 TODO

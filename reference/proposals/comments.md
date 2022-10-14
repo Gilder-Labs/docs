@@ -27,6 +27,6 @@ const proposalPublicKey = new PublicKey("2PwgCid6JCFXLvcqHiCTaMHJLHR65EqwvboTycF
 const proposalComments = await getGovernanceChatMessages(
   connection,
   GOVERNANCE_CHAT_PROGRAM_ID,
-  proposalPublicKey
+  new PublicKey(proposalId)
 );
 ```

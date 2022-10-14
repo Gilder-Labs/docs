@@ -1,2 +1,2 @@
-# 🏰 Realms (daos)
+# Realms (daos)
 

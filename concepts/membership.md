@@ -1,2 +1,2 @@
-# 👥 Membership
+# Membership
 

@@ -1,5 +1,5 @@
 ---
-description: Get an individual members votes. This will get their votes across all daos.
+description: Get an individual members votes
 ---
 
 # Votes
@@ -20,12 +20,10 @@ import {
   getVoteRecordsByVoter, 
 } from "@solana/spl-governance";
 
-const membersWalletAddress = new PublicKey("EVa7c7XBXeRqLnuisfkvpXSw5VtTNVM8MNVJjaSgWm4i");
-const DEFAULT_SPL_GOVERNANCE_ID = new PublicKey("GovER5Lthms3bLBqWub97yVrMmEogzX7xNjdXpPPCVZw");
 
 const memberVotes = await getVoteRecordsByVoter(
   connection,
-  DEFAULT_SPL_GOVERNANCE_ID, // change this to based on the realms program id
-  membersWalletAddress
+  new PublicKey(realm.governanceId), // change this based on the dao program id
+  new PublicKey(member.walletId)
 );
 ```

@@ -2,7 +2,7 @@
 description: These represent membership in a DAO.
 ---
 
-# 👥 TokenOwnerRecords
+# TokenOwnerRecords
 
 ### Fetch All Token Owner Records
 
