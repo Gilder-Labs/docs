@@ -32,11 +32,11 @@ import { pubkeyFilter, VoteRecord } from "@solana/spl-governance";
 import { none, map, some } from "fp-ts/Option";
 import { pipe } from "fp-ts/function";
 import {
-    getGovernanceAccounts,
-    GovernanceAccount,
-    GovernanceAccountClass,
-    ProgramAccount,
-    MemcmpFilter,
+  getGovernanceAccounts,
+  GovernanceAccount,
+  GovernanceAccountClass,
+  ProgramAccount,
+  MemcmpFilter,
 } from "@solana/spl-governance";
 
 interface Args {

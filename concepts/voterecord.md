@@ -1,3 +1,2 @@
-# VoteRecord
+# ✅ VoteRecord
 
-V
