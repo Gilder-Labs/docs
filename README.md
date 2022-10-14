@@ -5,10 +5,10 @@
 This is meant to be a community led effort to build docs around SPL-governance daos on Solana!
 
 {% hint style="info" %}
-Join the spl-governance/realms [Discord server](http://discord.gg/6UZHcNJFr8) to ask more questions or how to get involved with DAO's on Solana.
+Join the spl-governance/realms [Discord server](http://discord.gg/6UZHcNJFr8) to ask questions or to get involved with DAO's on Solana.
 {% endhint %}
 
-## Want learn more about how DAOs on Solana work?
+## Want learn more about how DAOs on Solana work? - TODO
 
 Check out the concepts page to get a high level understanding how DAO's work
 
@@ -22,7 +22,7 @@ Check out the concepts page to get a high level understanding how DAO's work
 
 ## Want to deep dive?
 
-Implementation details for how to fetch Realm data through the `@solana/spl-governance`
+Implementation details for building fetching DAO data through the `@solana/spl-governance` library &#x20;
 
 {% content-ref url="quick-start.md" %}
 [quick-start.md](quick-start.md)
