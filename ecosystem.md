@@ -24,7 +24,7 @@ Mobile app for Solana DAOs. Create proposals, vote and get notified when proposa
 
 ### Squads
 
-Squads Protocol: the multisig standard you were looking for on Solana. Link SPL-governance daos to squads as a subdao with their new Mesh protocl.&#x20;
+Squads Protocol: the multisig standard you were looking for on Solana. Link SPL-governance DAO' to squads as a subdao with their new Mesh protocol.&#x20;
 
 [Twitter](https://mobile.twitter.com/squadsprotocol) - [Discord](http://discord.gg/tYpY9UfRFx)
 
@@ -40,7 +40,7 @@ Start your Nation. Build and share ownership of your asset, project, or cause.
 
 ### LightHouse
 
-Proof-of-Contribution Protocol for Web3 Reputation and Credentials
+Proof-of-Contribution Protocol for Web3 Reputation and Credentials. Let members of your dao's build reputation by interacting with the DAO.&#x20;
 
 [Twitter](https://twitter.com/lighthouse\_dao) - [Discord](http://discord.gg/Nd8YQrgaMw)
 
