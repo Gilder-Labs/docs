@@ -12,11 +12,16 @@ getAllProposals(connection: Connection, programId: PublicKey, realmPk: PublicKey
 
 {% code overflow="wrap" %}
 ```typescript
+
+import {
+  getAllProposals,
+} from "@solana/spl-governance";
+
 // default spl-governance program id, most dao's use this
 const realmProgramId = new PublicKey("GovER5Lthms3bLBqWub97yVrMmEogzX7xNjdXpPPCVZw");
 // Grape dao realm id
 const realmPublicKey = new PublicKey("By2sVGZXwfQq6rAiAM3rNPJ9iQfb5e2QhnF4YjJ4Bip")
-const proposals = await getAllProposalas(
+const proposals = await getAllProposals(
     connection,
     // public key of program id must be the program that the DAO was set up with.
     realmProgramId,
