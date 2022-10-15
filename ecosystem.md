@@ -2,7 +2,7 @@
 description: Tools and ecosystem projects that are building products for DAOs
 ---
 
-# Ecosystem
+# 🏫 Ecosystem
 
 ### Realms
 

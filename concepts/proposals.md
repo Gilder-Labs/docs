@@ -1,2 +1,2 @@
-# Proposals
+# 🏛 Proposals
 

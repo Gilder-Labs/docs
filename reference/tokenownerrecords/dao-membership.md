@@ -1,4 +1,4 @@
-# Dao membership
+# Dao Membership
 
 ### Fetch a wallets dao membership
 
@@ -40,5 +40,5 @@ const realmList = Array.from(daosSet);
 {% hint style="info" %}
 The code written above will only get the DAO's a user is in for the specificed program id. To get all daos for a user for all spl-governance instances, you would need to iterate through each spl-governance program id and get their records. \
 \
-See [#fetch-realm-program-ids](../realms-daos/realm-program-ids.md#fetch-realm-program-ids "mention")
+See [#fetch-realm-program-ids](../realms/realm-program-ids.md#fetch-realm-program-ids "mention")
 {% endhint %}

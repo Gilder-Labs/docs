@@ -6,9 +6,9 @@
 
 ## Reference
 
-* [🏰 Realms (daos)](reference/realms-daos.md)
-  * [Realm Program Ids](reference/realms-daos/realm-program-ids.md)
-  * [Realm Metadata](reference/realms-daos/realm-metadata.md)
+* [🏰 Realms](reference/realms/README.md)
+  * [Realm Program Ids](reference/realms/realm-program-ids.md)
+  * [Realm Metadata](reference/realms/realm-metadata.md)
 * [👥 TokenOwnerRecords](reference/tokenownerrecords/README.md)
   * [Dao Membership](reference/tokenownerrecords/dao-membership.md)
   * [Votes](reference/tokenownerrecords/votes.md)
@@ -20,7 +20,7 @@
 
 ## Concepts
 
-* [🏰 Realms (daos)](concepts/realms-daos.md)
+* [🏰 Realms](concepts/realms.md)
 * [👥 Membership](concepts/membership.md)
 * [🏛 Proposals](concepts/proposals.md)
 * [💰 Treasury](concepts/treasury.md)

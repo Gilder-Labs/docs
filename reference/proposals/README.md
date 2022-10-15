@@ -1,4 +1,4 @@
-# Proposals
+# 🏛 Proposals
 
 ### Fetch Realm Proposals
 

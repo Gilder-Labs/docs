@@ -12,8 +12,8 @@ Join the spl-governance/realms [Discord server](http://discord.gg/6UZHcNJFr8) to
 
 Check out the concepts page to get a high level understanding how DAO's work
 
-{% content-ref url="concepts/realms-daos.md" %}
-[realms-daos.md](concepts/realms-daos.md)
+{% content-ref url="concepts/realms.md" %}
+[realms.md](concepts/realms.md)
 {% endcontent-ref %}
 
 {% content-ref url="concepts/proposals.md" %}
