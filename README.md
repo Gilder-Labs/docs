@@ -2,7 +2,7 @@
 
 ## Welcome to SPL-Governance docs!
 
-SPL-governance is a client javascript library that handles a lot of the background fetching and data serialization so that you can focus on building for DAO's.&#x20;
+This is meant to be a community led effort to build docs around SPL-governance daos on Solana!
 
 {% hint style="info" %}
 Join the spl-governance/realms [Discord server](http://discord.gg/6UZHcNJFr8) to ask questions or to get involved with DAO's on Solana.

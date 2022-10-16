@@ -2,7 +2,7 @@
 description: Realms are equivalent to DAOs on other chains
 ---
 
-# 🏰 Realms (daos)
+# 🏰 Realms
 
 ### Fetch Realms
 
@@ -34,7 +34,8 @@ function getRealm(connection: Connection, realm: PublicKey): Promise<ProgramAcco
 
 ```typescript
 import { getRealm } from "@solana/spl-governance";
-let DEFAULT_SPL_GOVERNANCE_ID = new PublicKey("GovER5Lthms3bLBqWub97yVrMmEogzX7xNjdXpPPCVZw");
-const realms = await getRealms(connection, DEFAULT_SPL_GOVERNANCE_ID);
+// Mango dao public key
+let realmId = new PublicKey("DPiH3H3c7t47BMxqTxLsuPQpEC6Kne8GA9VXbxpnZxFE");
+const realm = await getRealm(connection, realmId);
 ```
 
